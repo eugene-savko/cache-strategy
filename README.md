@@ -1,4 +1,5 @@
-## cache-strategy: A library for applying the strategy of caching the computed values of a method using aspect annotation.
+## Cache-strategy
+A library for applying the strategy of caching the computed values of a method using aspect annotation.
 
 ## Getting Started
 
