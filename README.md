@@ -1,8 +1,8 @@
-# cache-strategy
+## cache-strategy: A library for applying the strategy of caching the computed values of a method using aspect annotation.
 
-# Getting Started
+## Getting Started
 
-#### Example 1
+## Examples
 ```java
 @CacheStrategy(cacheName = "cachename2")
 public Map<String, Long> getUserUids(String entityId, @CacheKey List<String> userIds) {
